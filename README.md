@@ -2,7 +2,4 @@
 
 **실습 환경**
 
-- Anaconda 4.10.3
-- Python 3.9.7
-- Spyder 5.1.5
-
+- Google Colab
